@@ -1,5 +1,5 @@
 # JoanKouloumba_1_14072021
-Parcours Développeur Web chez OPENCLASSROOM - Projet 1 
+Parcours Développeur Web chez OPENCLASSROOM - Projet 1 : Prenez en main votre formation de développeur web
 
 Livrables attendus : 
 - Votre planning de formation.
